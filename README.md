@@ -1,8 +1,8 @@
 # Blog Microservices Project with Docker, Kubernetes, GCP and GitHub Actions
 
-Blog microservices project with Node JS, React and MongoDB. The services will run with Docker and I will be using Kubernetes for orchestrating the different services. I will also be leveraging Google Cloud environment for the development. Finally, I will use GitHub Actions for CI/CD.
-
 ## Project Description
+
+Blog microservices project with Node JS, React and MongoDB. The services will run with Docker and I will be using Kubernetes for orchestrating the different services. I will also be leveraging Google Cloud environment for the development. Finally, I will use GitHub Actions for CI/CD.
 
 The project is designed using microservices and it comprises of a react client for the froentend, posts service, comments service, event bus and query service. Each one is a separate project. To run the project, follow the steps below.
 
