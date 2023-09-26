@@ -1,4 +1,4 @@
-# Blog Microservices Project with Docker, Kubernetes, GCP and GitHub Actions
+# Blog Microservices
 
 ## Project Description
 
