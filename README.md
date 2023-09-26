@@ -63,3 +63,9 @@ To start the event bus service, run the following command in the terminal:
 `npm start`
 
 This service is running on port 4005.
+
+## Testing the project
+
+Fill the posts form on the homepage. This will create a new post. At this point, observe the `event-bus` terminal running on port 4005 and see the output of the event emitted.
+
+Similarly, add a comment to the post using the comment form attached to the post. This post request hits the endpoint defined in the `posts service`, which then emits an event to the `event-bus`. Check the terminals for the outputs.
